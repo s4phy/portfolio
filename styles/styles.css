@@ -65,7 +65,15 @@ body {
 }
 
 .apresentacao-2{
-    padding: 9% 15%;
+    padding: 7% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+.apresentacao-3{
+    padding: 3% 9%;
     display: flex;
     align-items: center;
     justify-content: space-between;
